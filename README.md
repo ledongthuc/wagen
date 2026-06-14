@@ -8,6 +8,10 @@ you give it an mp3 (or wav, flac, ogg, whatever). it draws those wavy bars that 
 
 like those old winamp visualizers but in video form.
 
+## screenshoot
+
+![screenshoot](screenshoot.png)
+
 ## deps
 
 - **Rust** (obviously. get it from rustup if u don't have it)
